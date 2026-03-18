@@ -35,3 +35,4 @@ python app.py
 Open in browser:
 
 http://127.0.0.1:5000
+Screenshots - https://github.com/onkarShweta/smart-job-scraper/tree/main/screenshots
